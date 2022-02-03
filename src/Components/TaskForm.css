@@ -1,0 +1,25 @@
+.task-container{
+    margin-top: 100px;
+    border: 1px solid;
+    width:50%;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 0px 0px 10px 0x ;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.task-header{
+    background-color: lightblue;
+    margin-bottom:20px ;
+    padding: 10px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.task-body{
+    padding: 10px;
+}
+
+.myButton{
+    border-radius: 50px;
+    background-color: red;
+}
